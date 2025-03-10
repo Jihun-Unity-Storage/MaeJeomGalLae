@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1061730443602",
+    "project_id": "maejeomgallae",
+    "storage_bucket": "maejeomgallae.appspot.com",
+    "firebase_url": "https://maejeomgallae-default-rtdb.firebaseio.com/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061730443602:android:0614f63127b74758df9a8b",
+        "android_client_info": {
+          "package_name": "com.sunrin.gallae"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobhtMjR-av4mJKmJuyI2XDkUIJ5cMRz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
